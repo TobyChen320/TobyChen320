@@ -4,7 +4,7 @@
 
 Hi, I'm Toby! I'm a data scientist who is passionate about data analytics and machine learning.
 - 🔭 I’m currently a Sr. Revenue Cycle Analyst at St. John's Episcopal Hospital.
-- 📚 I’m currently learning Data Bricks, and Informatica MDM.
+- 📚 I’m currently learning Power BI, and PowerShell.
 - 👯 I’m always interested in any software development opportunities with machine learning as a preferred role. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tobchen/) [Email](mailto:tobyhchen2013@gmail.com)
 
